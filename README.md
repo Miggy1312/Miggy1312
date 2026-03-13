@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="TU_ENLACE_DIRECTO_A_LA_IMAGEN_AQUI.png" alt="Banner de Perfil de Miguelangel Martinez" width="100%" />
+  <img src="./assets/banner developer.png" alt="Banner de Miguelangel Martinez" width="100%" />
 </p>
 
 # ¡Hola! Soy Miguelangel Martinez 👋
