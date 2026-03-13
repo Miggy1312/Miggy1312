@@ -37,8 +37,8 @@ Me apasiona transformar ideas en código funcional. Como desarrollador Full Stac
 - **Concepto:** Una aplicación donde la moneda es el tiempo. Enseña algo (ej. guitarra) para ganar créditos y canjéalos por otras clases.
 - **Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-[![Ver Repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/Miggy1312/banco-del-tiempo)
-[![Ver Demo](https://img.shields.io/badge/Live_Demo-¡Pruébalo!-brightgreen?style=for-the-badge&logo=vercel)](https://tu-link-de-demo.com)
+[![Ver Repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/4GeeksAcademy/spain-fs-pt-125-final-project-team-two)
+[![Ver Demo](https://img.shields.io/badge/Live_Demo-¡Pruébalo!-brightgreen?style=for-the-badge&logo=vercel)](https://sample-service-name-10o4.onrender.com/)
 
 ---
 
