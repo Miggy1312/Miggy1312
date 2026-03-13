@@ -54,7 +54,7 @@ Me apasiona transformar ideas en código funcional. Como desarrollador Full Stac
 ### 📫 Conectemos:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelangel-martinez-fontalvo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mig2k12@gmail.com)
 
 ---
 *"El aprendizaje es un proceso constante de intercambio."*
