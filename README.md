@@ -4,7 +4,7 @@
 
 # ¡Hola! Soy Miguelangel Martinez 👋
 
-### 🚀 Full Stack Web Developer (Junior) | 21 años
+### 🚀 Full Stack Web Developer | 21 años
 
 Me apasiona transformar ideas en código funcional. Como desarrollador Full Stack, disfruto tanto diseñando interfaces intuitivas en el Front-end como estructurando arquitecturas robustas en el Back-end. Actualmente busco mi primera oportunidad profesional para aportar valor y seguir creciendo.
 
